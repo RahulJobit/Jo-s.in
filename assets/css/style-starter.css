@@ -12147,7 +12147,7 @@ body:after {
 
 .w3l-contact-breadcrum .breadcrum-bg {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/g2.jpg);
+  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/banner1.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   padding-top: 86px; }
@@ -12188,7 +12188,7 @@ body:after {
 
 .w3l-service-breadcrum .breadcrum-bg {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/g4.jpg);
+  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/bannerpro.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   padding-top: 86px; }
@@ -12301,6 +12301,17 @@ img.img-responsive {
 
   
 }
+.logo{
+padding-left: 3%;
+width:50px ;
+float: left;
+padding-top: 2%;
+margin: -20px;
+margin-left: -60px;
+margin-top: auto;
+}
+
+
 
 
 /*# sourceMappingURL=style-starter.css.map */
