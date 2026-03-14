@@ -1,10 +1,17 @@
+
+[![Website](https://img.shields.io/badge/Visit-Portfolio-blue)](https://jo-s.in)
+
 # 🌐 Personal Portfolio Website
 
-![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+![Website](https://img.shields.io/badge/Website-Live-success)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/RahulJobit/Jo-s.in)
+![GitHub Stars](https://img.shields.io/github/stars/RahulJobit/Jo-s.in?style=social)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/RahulJobit/Jo-s.in)
+![GitHub License](https://img.shields.io/github/license/RahulJobit/Jo-s.in)
 
 ---
 
