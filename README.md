@@ -1,5 +1,5 @@
 
-[![Website](https://img.shields.io/badge/Visit-Portfolio-blue)](https://jo-s.in)
+[![Website](https://img.shields.io/badge/Visit-Portfolio-blue)]([https://jo-s.in](https://rahuljobit.github.io/Jo-s.in/))
 
 # 🌐 Personal Portfolio Website
 
@@ -28,7 +28,7 @@ It serves as a professional platform where visitors and recruiters can explore m
 
 You can view the live portfolio here:
 
-**🌍 https://jo-s.in**
+**🌍 https://rahuljobit.github.io/Jo-s.in/**
 
 ---
 
@@ -136,7 +136,7 @@ This project is licensed under the MIT License.
 
 GitHub: https://github.com/RahulJobit
 
-Portfolio: https://jo-s.in
+Portfolio: https://rahuljobit.github.io/Jo-s.in/
 
 ---
 
