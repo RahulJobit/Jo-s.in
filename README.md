@@ -1,5 +1,5 @@
 
-[![Website](https://img.shields.io/badge/Visit-Portfolio-blue)]([https://jo-s.in](https://rahuljobit.github.io/Jo-s.in/))
+[![Website](https://img.shields.io/badge/Visit-Portfolio-blue)](https://rahuljobit.github.io/Jo-s.in/)
 
 # 🌐 Personal Portfolio Website
 
